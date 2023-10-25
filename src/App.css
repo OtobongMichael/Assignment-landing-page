@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.HeroMain{
+  background-image: url(./images/react\ img.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 130vh;
+  background-blend-mode: overlay;
+  /* background-color: #00640006; */
+
+}
+.iconify{
+  font-size: 100px;
+  margin-left: 2rem;
+}
